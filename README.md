@@ -1,2 +1,2 @@
 # entertainment-search
-USED FOR SWIFT 2, DEPRECATED FOR SWIFT VERSION 4
+Used for swift 2, deprecated for swift version 4
